@@ -1,0 +1,1111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EarlGray-StyleAsset
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 33d496755d9bce04b8e1fd75c1fa4673, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Alpha
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowPadding.x
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowPadding.y
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowRounding
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowBorderSize
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowMinSize.x
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowMinSize.y
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowTitleAlign.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowTitleAlign.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: WindowMenuButtonPosition
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ChildRounding
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ChildBorderSize
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PopupRounding
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PopupBorderSize
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: FramePadding.x
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: FramePadding.y
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: FrameRounding
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: FrameBorderSize
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ItemSpacing.x
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ItemSpacing.y
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ItemInnerSpacing.x
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ItemInnerSpacing.y
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CellPadding.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CellPadding.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: TouchExtraPadding.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: TouchExtraPadding.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: IndentSpacing
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColumnsMinSpacing
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ScrollbarSize
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ScrollbarRounding
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: GrabMinSize
+    value: 12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: GrabRounding
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LogSliderDeadzone
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: TabRounding
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: TabBorderSize
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ColorButtonPosition
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ButtonTextAlign.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ButtonTextAlign.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SelectableTextAlign.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: SelectableTextAlign.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DisplayWindowPadding.x
+    value: 19
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DisplayWindowPadding.y
+    value: 19
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DisplaySafeAreaPadding.x
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: DisplaySafeAreaPadding.y
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MouseCursorScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: AntiAliasedLines
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: AntiAliasedLinesUseTex
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: AntiAliasedFill
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CurveTessellationTol
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CircleTessellationMaxError
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.size
+    value: 55
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[0].r
+    value: 0.88
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[0].g
+    value: 0.88
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[0].b
+    value: 0.88
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[0].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[1].r
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[1].g
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[1].b
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[1].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[2].r
+    value: 0.11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[2].g
+    value: 0.11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[2].b
+    value: 0.11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[2].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[3].r
+    value: 0.196
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[3].g
+    value: 0.196
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[3].b
+    value: 0.196
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[3].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[4].r
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[4].g
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[4].b
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[4].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[5].r
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[5].g
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[5].b
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[5].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[6].r
+    value: 0.36
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[6].g
+    value: 0.36
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[6].b
+    value: 0.36
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[6].a
+    value: 0.21176471
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[7].r
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[7].g
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[7].b
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[7].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[8].r
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[8].g
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[8].b
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[8].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[9].r
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[9].g
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[9].b
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[9].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[10].r
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[10].g
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[10].b
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[10].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[11].r
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[11].g
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[11].b
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[11].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[12].r
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[12].g
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[12].b
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[12].a
+    value: 0.50980395
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[13].r
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[13].g
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[13].b
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[13].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[14].r
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[14].g
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[14].b
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[14].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[15].r
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[15].g
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[15].b
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[15].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[16].r
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[16].g
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[16].b
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[16].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[17].r
+    value: 0.24
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[17].g
+    value: 0.24
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[17].b
+    value: 0.24
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[17].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[18].r
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[18].g
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[18].b
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[18].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[19].r
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[19].g
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[19].b
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[19].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[20].r
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[20].g
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[20].b
+    value: 0.28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[20].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[21].r
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[21].g
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[21].b
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[21].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[22].r
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[22].g
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[22].b
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[22].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[23].r
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[23].g
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[23].b
+    value: 0.12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[23].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[24].r
+    value: 0.18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[24].g
+    value: 0.18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[24].b
+    value: 0.18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[24].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[25].r
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[25].g
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[25].b
+    value: 0.14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[25].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[26].r
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[26].g
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[26].b
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[26].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[27].r
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[27].g
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[27].b
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[27].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[28].r
+    value: 0.37
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[28].g
+    value: 0.37
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[28].b
+    value: 0.37
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[28].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[29].r
+    value: 0.49
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[29].g
+    value: 0.49
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[29].b
+    value: 0.49
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[29].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[30].r
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[30].g
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[30].b
+    value: 0.15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[30].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[31].r
+    value: 0.35
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[31].g
+    value: 0.35
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[31].b
+    value: 0.35
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[31].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[32].r
+    value: 0.49
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[32].g
+    value: 0.49
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[32].b
+    value: 0.49
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[32].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[33].r
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[33].g
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[33].b
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[33].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[34].r
+    value: 0.18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[34].g
+    value: 0.18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[34].b
+    value: 0.18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[34].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[35].r
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[35].g
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[35].b
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[35].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[36].r
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[36].g
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[36].b
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[36].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[37].r
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[37].g
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[37].b
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[37].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[38].r
+    value: 0.41
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[38].g
+    value: 0.41
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[38].b
+    value: 0.41
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[38].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[39].r
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[39].g
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[39].b
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[39].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[40].r
+    value: 0.66
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[40].g
+    value: 0.66
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[40].b
+    value: 0.66
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[40].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[41].r
+    value: 0.27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[41].g
+    value: 0.37
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[41].b
+    value: 0.13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[41].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[42].r
+    value: 0.34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[42].g
+    value: 0.47
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[42].b
+    value: 0.17
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[42].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[43].r
+    value: 0.41
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[43].g
+    value: 0.56
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[43].b
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[43].a
+    value: 0.9882353
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[44].r
+    value: 0.2392157
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[44].g
+    value: 0.2392157
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[44].b
+    value: 0.2392157
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[44].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[45].r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[45].g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[45].b
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[45].a
+    value: 0.6745098
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[46].r
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[46].g
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[46].b
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[46].a
+    value: 0.30588236
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[47].r
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[47].g
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[47].b
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[47].a
+    value: 0.38431373
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[48].r
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[48].g
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[48].b
+    value: 0.8000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[48].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[49].r
+    value: 0.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[49].g
+    value: 0.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[49].b
+    value: 0.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[49].a
+    value: 0.27058825
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[50].r
+    value: 0.59
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[50].g
+    value: 0.59
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[50].b
+    value: 0.59
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[50].a
+    value: 0.98039216
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[51].r
+    value: 0.83
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[51].g
+    value: 0.83
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[51].b
+    value: 0.83
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[51].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[52].r
+    value: 0.83
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[52].g
+    value: 0.83
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[52].b
+    value: 0.83
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[52].a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[53].r
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[53].g
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[53].b
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[53].a
+    value: 0.5019608
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[54].r
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[54].g
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[54].b
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Colors.Array.data[54].a
+    value: 0.5019608
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
